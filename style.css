@@ -292,10 +292,10 @@ section{
 }
 /* effet image */
 .about-img img:hover{
-  box-shadow: 
-              0 0 40px var(--main-color),
+  box-shadow: 0 0 40px var(--main-color),
               0 0 50px var(--main-color)
 }
+              
 .about-content h2{
   font-size: 7rem;
   text-align: left;
